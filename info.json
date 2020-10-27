@@ -1,0 +1,341 @@
+{
+  "Author": "Gridner - Inspired by Joyee Cheung",
+  "Guide": [
+    "照着这里面的格式填写即可",
+    "PDF 会自动生成，文件名可以在 gulp.js 里改",
+    "PDF 的地址，将这个文件里pdf部分改为你的PDF文件名即可"
+  ],
+  "title": "万家振 - 南大软院本科生（应届）",
+  "aside": [
+    {
+      "href": "https://www.zhihu.com/people/prexus",
+      "content": "知乎"
+    },
+    {
+      "href": "https://github.com/progrinder/resume",
+      "content": "源代码"
+    },
+    {
+      "href": "./pdf/resume.pdf",
+      "content": "PDF 下载"
+    }
+  ],
+  "header": {
+    "online": "http://resume.reforget.top",
+    "title": {
+      "name": "万家振",
+      "job": "南昌大学软件学院本科生（应届）"
+    },
+    "contacts": {
+      "phone": "15170229323",
+      "mail": "872005456@qq.com",
+      "wechat": "wxid_y25vsu6ls0d822",
+      "github": {
+        "href": "https://github.com/progrinder",
+        "name": "progrinder"
+      },
+      "blog": {
+        "href": "https://reforget.top",
+        "name": "博客: Grinder's Space"
+      }
+    }
+  },
+  "education": {
+    "time": "2018 - 2022",
+    "name": "南昌大学",
+    "major": "软件工程（本科）",
+    "honor": [
+      "2017.09 - 2018.06：南昌大学家园工作室 - 前端组成员",
+      "2018.09 至今：南昌大学家园工作室 - `前端负责人`"
+    ]
+  },
+  "language": {
+    "cert": [
+      {
+        "name": "CET-4",
+        "grade": 455,
+        "fullmarks": 710
+      },
+      {
+        "name": "CET-6",
+        "grade": 520,
+        "fullmarks": 710
+      }
+    ],
+    "skills": [
+      "流畅地阅读英文文档、教程",
+      "熟练地使用英语编写 README 等"
+    ]
+  },
+  "experience": [
+    {
+      "title": {
+        "place": "阿里巴巴（中国）网络技术有限公司 - CBU 体验技术部",
+        "time": "2020.06 - 2020.10"
+      },
+      "content": {
+        "position": "实习前端工程师",
+        "tasks": [
+          "参与 1688 卖家工作台业务模块开发",
+          "维护并升级组内前端应用级开发方案，并参与开发方案推广与落地工作",
+          "参与团队权限管理系统前端部分调研与开发工作"
+        ]
+      }
+    },
+    {
+      "title": {
+        "place": "北京字节跳动科技有限公司 - 垂直业务",
+        "time": "2020.03 - 2020.06"
+      },
+      "content": {
+        "position": "前端开发实习生",
+        "tasks": [
+          "参与研发与维护业务内部中后台系统，`向业务输出稳定可靠的代码`",
+          "参与 B 端业务，了解了业务商业化模式，提升了对业务的认知",
+          "`独立负责`内部品控系统的产品设计、数据库设计和前后端开发，已上线并稳定为团队提供品控记录功能",
+          "使用公司自研微前端框架参与中后台系统向微前端架构的迁移，对此`有所思考和产出`，受自研框架启发以及外部开源方案`编写并开源了一个新的微前端框架`",
+          "通过上手业务提升了产品思维和 Owner 意识"
+        ]
+      }
+    },
+    {
+      "title": {
+        "place": "家园工作室 - 数字家园服务平台",
+        "time": "2019.10 - 2020.06"
+      },
+      "content": {
+        "position": "前端负责人",
+        "tasks": [
+          "技术栈基于 `React` + `TypeScript` + `Ant Design` + `Umi` + `Dva`",
+          "参与技术选型，并根据需求确定前端整体架构",
+          "根据需求建立约定式+配置式相结合的前端路由机制",
+          "基于 GitFlow 制定项目组前端工作流程",
+          "基于阿里云 OSS 和 GitLab CI 建立自动化构建、部署体系",
+          "与后端共同制定 API 交互规范"
+        ]
+      }
+    },
+    {
+      "title": {
+        "place": "LinkStats",
+        "time": "2019.05 - 2019.08"
+      },
+      "content": {
+        "position": "产品、设计、前端、后端、数据库",
+        "tasks": [
+          "<a href=\"https://linkstats.lenconda.top\" target=\"_blank\">线上地址</a>",
+          "<a href=\"https://github.com/lenconda/linkstats_fe\" target=\"_blank\">GitHub 地址</a>",
+          "设计情景、确定产品原型、需求",
+          "基于 TypeScript + Koa 2 设计并开发后端架构",
+          "基于 MongoDB + Mongoose 设计数据库",
+          "基于 TypeScript + React + Ant Design 设计并开发前端",
+          "构建前端`自动化构建上线体系`，实现前端自动化运维"
+        ]
+      }
+    },
+    {
+      "title": {
+        "place": "家园工作室",
+        "time": "2018.09 - 2019.06"
+      },
+      "content": {
+        "position": "前端负责人",
+        "tasks": [
+          "Web 前端和 `Android/iOS App` 开发",
+          "参与制定新人培养方案",
+          "为新人提供前端培训和 Linux 培训",
+          "参与全线产品的技术选型",
+          "为工作室成员提供前端培训与技术分享",
+          "参与建立前端自动化开发运维体系",
+          "制定新的团队协作规范、制定新的前端代码风格规范、Git 规范"
+        ]
+      }
+    },
+    {
+      "title": {
+        "place": "家园工作室 - 南大家园（iNCU）",
+        "time": "2018.07 - 2019.06",
+        "links": [
+          {
+            "name": "下载链接",
+            "href": "http://incu.ncuos.com/"
+          }
+        ]
+      },
+      "content": {
+        "position": "客户端、后端",
+        "tasks": [
+          "使用 `TypeScript` + `React Native` 开发客户端",
+          "参与部分后端开发（Node.js + Koa 2）",
+          "优化代码，提升组件可复用性和可维护性",
+          "参与产品更新迭代开发和维护工作"
+        ]
+      }
+    },
+    {
+      "title": {
+        "place": "家园工作室 - 云家园信息服务平台",
+        "time": "2017.09 - 2019.06"
+      },
+      "content": {
+        "position": "前端、维护",
+        "tasks": [
+          "基于 Vue 和 Webpack 开发单页面应用",
+          "封装基础业务组件，降低项目整体耦合度",
+          "对组员提交的的代码进行 Code Review",
+          "日常参与维护、修改 Bug 、部署项目等",
+          "对单页应用进行埋点分析，复盘项目代码、总结经验和不足",
+          "带领组员优化代码结构和性能，确保为全校师生提供稳定的服务"
+        ]
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "name": "2019 年亚洲大学生超算竞赛（ASC） - 二等奖",
+      "tasks": [
+        "优化 HPL 并撰写该部分的报告"
+      ]
+    }
+  ],
+  "skills": {
+    "summary": [
+      {
+        "name": "语言",
+        "content": [
+          "HTML 5",
+          "CSS 3",
+          "JavaScript",
+          "Node.js",
+          "C++",
+          "Java",
+          "Python"
+        ]
+      },
+      {
+        "name": "工具/数据库",
+        "content": [
+          "Git",
+          "GitHub",
+          "MySQL",
+          "IntelliJ IDEA",
+          "Visual Studio 2017",
+          "Visual Studio code"
+        ]
+      }
+    ],
+    "flags": {
+      "name": "Web 前端",
+      "skill": [
+        {
+          "name": "HTML/CSS",
+          "description": [
+            "使用语义化、结构化 HTML 编写网页结构",
+            "熟悉 CSS 3，并能熟练使用 CSS 完成布局样式设计",
+            "能根据标注稿使用 REM 适配编写移动端网页，以及响应式布局",
+            "了解 HTML 5 和 CSS 3 的部分新特性，并用于实践中"
+          ]
+        },
+        {
+          "name": "JavaScript/ECMAScript、TypeScript",
+          "description": [
+            "`熟练使用 ES 6/7/Next 进行项目开发`",
+            "严格遵守 `ESLint 规范` 及其他团队代码规范（如有）",
+            "了解`常用的异步处理方案`，并用于实践中",
+            "了解简单的 TypeScript 语法，并在个人项目使用 TypeScript 开发"
+          ]
+        },
+        {
+          "name": "前端框架",
+          "description": [
+            "理解 React 原理，日常使用 React 编写网页",
+            "熟悉并日常使用 Ant Design (Pro) 作为 UI 框架",
+            "了解并掌握 BootStrap、jQuery 等框架或库的使用",
+            "了解并使用过 Angular 和 Vue 开发项目"
+          ]
+        },
+        {
+          "name": "前端工程化实践",
+          "description": [
+            "使用 `Webpack` 构建前端应用",
+            "掌握多种`前端优化`方案，能从零配置并优化项目",
+            "对前端自动化流程有思考，`并推广到团队`",
+            "使用 `Yeoman` 构建自己的脚手架",
+            "对服务端渲染有思考，`并落地一套方案`",
+            "在上一段实习经历中对微前端架构有所思考，并受此启发产出一套<a href=\"https://github.com/lenconda/polyatomic\" target=\"_blank\">开源方案</a>"
+          ]
+        },
+        {
+          "name": "其它知识",
+          "description": [
+            "根据后端 API 规范 `Mock` 测试数据",
+            "初步了解 Sock.js + Stomp 开发实时性较强的项目",
+            "了解微信小程序开发过程，并开发过个人项目（因资金原因未能上线）"
+          ]
+        }
+      ]
+    },
+    "cloud": {
+      "name": "Web 后端",
+      "skill": [
+        {
+          "name": "Node.js",
+          "description": [
+            "熟练使用 `TS 和 Koa2 和 MongoDB` 编写项目后端",
+            "比较熟悉 SQL 语法，能设计数据表结构",
+            "使用 TypeORM、Sequelize 等 ORM 模型实现数据库的 CURD 操作",
+            "使用 `Chai 和 Mocha` 等框架完成单元测试",
+            "使用 Node.js + Cheerio 和 Python + BeautifulSoup 4 等编写简单的网页爬虫"
+          ]
+        },
+        {
+          "name": "其它知识",
+          "description": [
+            "使用 `Docker 和 Docker Compose` 完成项目的构建与部署",
+            "使用 `Nginx` 作为反向代理和 Web 服务器部署个人项目和工作室项目",
+            "了解 `TCP/IP 模型`和 `HTTP` 1.1、2 等协议，熟悉其常用的功能和特性"
+          ]
+        }
+      ]
+    },
+    "gears": {
+      "name": "其它",
+      "skill": [
+        {
+          "name": "性格",
+          "description": [
+            "性格较为开朗，容易融入集体，有集体意识和责任意识，乐于帮助他人，适合团队协同工作",
+            "乐于沟通，习惯于在与他人轻松愉悦的沟通中解决问题，乐观地对待身边的事物",
+            "对一切保有好奇，对未来始终抱有希望"
+          ]
+        },
+        {
+          "name": "专业",
+          "description": [
+            "主动并乐意地探索前端和后端的最新技术，并有较强的自学能力和理解能力",
+            "计算机科班生，对计算机的历史、现状和未来有充足且全面的认知，计算机和互联网世界的世界观已初具雏形",
+            "始终热忱地拥抱互联网和前端技术",
+            "有意识地关注行业最新动态和最新技术，并有自己的思考"
+          ]
+        },
+        {
+          "name": "开源贡献 & 技术社区贡献",
+          "description": [
+            "在 GitHub 上开源了一些自己造的轮子，`并发布在 NPM 上`",
+            "基于 Ghost 和 Docker 自建技术博客，从 2017 年更新至今（部分文章会同步于掘金、知乎等平台）"
+          ]
+        },
+        {
+          "name": "工具使用",
+          "description": [
+            "`6 年 Linux 使用与运维经验`",
+            "`熟练使用 Git 进行日常开发`",
+            "熟悉 GitFlow 工作流，并在所有负责的团队项目中使用",
+            "使用合适的 IDE/编辑器进行日常高效率开发",
+            "合理利用 Google、StackOverflow、GitHub Issues 等解决技术方面的困惑"
+          ]
+        }
+      ]
+    }
+  }
+}
